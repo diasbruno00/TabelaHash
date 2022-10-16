@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1665861303 source:c:\users\user\desktop\prova3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tabelaHash.h"
+
+1665861395 c:\users\user\desktop\prova3\tabelahash.h
+
+1665860799 source:c:\users\user\desktop\prova3\tabelahash.c
+	"tabelaHash.h"
+	<stdlib.h>
+
